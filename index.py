@@ -1,1 +1,3 @@
-print("Hello World")
+from functions.bb import mainMenu
+
+mainMenu()
