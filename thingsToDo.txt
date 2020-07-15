@@ -1,0 +1,12 @@
+Koty
+Functions:
+
+add 2 numbers together
+multiply 2 numbers together
+
+read from a file
+write to a file
+
+use an array to display data
+
+write data from array to file
